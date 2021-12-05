@@ -2,6 +2,8 @@
 
 https://www.prisma.io/docs/getting-started/quickstart
 
+https://github.com/coding-to-music/prisma-starter
+
 ## Quickstart
 
 The following guide will get you up and running as quickly as possible by covering the following 3 steps:
@@ -105,7 +107,8 @@ This query asked for all the users and their blog posts. You then printed the re
 ```java
 npx prisma studio
 ```
-
+View on 
+http://localhost:5555/
 
 ### What next?
 If you're interested in learning more about Prisma, the Concepts section has all the information needed to gain a deeper understanding of how Prisma works and how it can make you more productive when working with databases.
